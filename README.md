@@ -20,6 +20,12 @@ Mudar usuário e e-mail de forma global.
 
 inicializar um repositório (executado dentro da pasta)
 
+`git branch nome-branch-atual novo-nome-para-branch`
+
+renomear branches.
+
+Para alterar a branch de **master** para **main** (novo padrão), usaríamos: `git branch master main`
+
 `git status`
 
 verificar o status do repósitorio.
@@ -31,4 +37,8 @@ adicionar (tornar arquivo rastreável) ao monitoramento do git.
 `git commit -m "Texto da mensagem sobre esta alteração"`
 
 fazer commit das alterações (salvar no histórico).
+
+`git remote add origin endereço-do-repositório.git`
+
+adicionar/conectar o repositório remoto ao local.
 
