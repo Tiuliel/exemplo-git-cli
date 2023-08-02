@@ -10,8 +10,11 @@
 ## Comandos principais do git
 
 
-`git config user.name` e `git config user.email`
-verificar nome/email
+`git config user.name "Seu nome como quiser"` e 
+`git config user.email "Seu email"`
+Mudar usuário e e-mail de forma global.
+
+**Obs:** normalmente estes dados estão relacionados ao usuário/conta do site GitHub
 
 `git init`
 
