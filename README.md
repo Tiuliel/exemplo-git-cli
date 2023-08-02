@@ -7,3 +7,9 @@
 - Limpar tela: cls
 - Entar na pasta: cd nomepasta
 
+## Comandos principais do git
+
+inicializar um repositório (executado dentro da pasta)
+
+git init
+
